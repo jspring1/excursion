@@ -8,10 +8,38 @@ h1 {
 
 body  {
  background-color: black;
+ text-align: center;
 }
 
-h2 {
+h2{
  color: Aquamarine;
  font-size: 16px;
  text-align: center;
 }
+
+a {
+ color: Aquamarine;
+}
+
+h3 {
+ text-align: Center;
+ font-family: Verdana;
+ font-weight: 300;
+ font-size: 42px;
+ color: white;
+}
+
+p {
+ font-family: Verdana;
+ font-size: 21px;
+ color: gray;
+}
+
+h4 {
+ text-align: Right;
+ color: gray;
+ font-size: 21px;
+}
+
+
+ 
